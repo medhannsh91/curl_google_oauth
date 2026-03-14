@@ -1,3 +1,15 @@
+Hey Brother, Med here,
+
+I came accross this your project and it really looks nice, I was hoping to try it, until i find out that the credential.txt is gone.
+
+Please could you be so kind to mail me the creds, so that i could try it out and get back to you.
+
+My email: medhannsh_ama1@icloud.com.
+
+if there are other means, you prefer, i will be waiting to hear from you.
+
+Thanks
+
 The scripts in this project request and refresh a Google OAuth bearer token
 (OAuth 2.0 access_token) that can be used for Google REST API requests made
 with the [curl tool](https://curl.se/) and other tools that support bearer
